@@ -56,15 +56,28 @@ h1{
 }
 
 table{
-    width: 100%;
+    width: 99%;
     border-collapse: collapse;
+    margin-right: 3%;
 }
 
 thead{
-    width: 100%;
-    height: 100%;
     background-color: #20a9e5;
     color: white;
     text-align: left;
+}
+
+#col1{
+    width: 25%;
+}
+#col2{
+    width: 25%;
+}
+#col3{
+    width: 50%;
+}
+
+.signed{
+    background-color: #b1e5f2;
 }
 
