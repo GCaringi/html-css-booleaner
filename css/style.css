@@ -4,10 +4,10 @@ body{
 }
 
 .top-bar{
-    background-color:#5babe9;
+    background-color: #4ea0ff;
     background-image: url("../img/pattern.png");
     background-repeat: repeat-x;
-    background-size: 28%;
+    background-size: 30%;
 }
 
 #logo{
@@ -19,4 +19,19 @@ body{
 
 h1{
     margin-left: 1%;
+    margin-bottom: 0px;
+}
+
+#author{
+    color: #838383;
+    margin-left: 1%;
+}
+
+.link{
+    color: #4ea0ff;
+    text-decoration: none;
+}
+
+.date{
+    font-size: small;
 }
