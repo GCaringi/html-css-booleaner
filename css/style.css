@@ -91,5 +91,28 @@ h3{
     padding-top: 1%;
 }
 
+.container1{
+    width: 258px;
+    height: 200px;
+    background-image: url("../img/monitor.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
+.container2{
+    width: 258px;
+    height: 200px;
+    background-image: url("../img/graph.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 10px;
+}
+
+.correlati{
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+    padding-left: 5%;
+    
+}
 
