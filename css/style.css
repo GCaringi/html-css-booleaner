@@ -1,0 +1,10 @@
+/* Tolti margini dalla pagina web */
+body{
+    margin: 0px;
+}
+
+.top-bar{
+    background-color:#5babe9;
+    background-image: url("../img/pattern.png");
+    background-size: contain;
+}
