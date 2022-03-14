@@ -2,14 +2,14 @@
 body{
     margin: 0px;
 }
-
+/* Gestione della barra che fa da sfondo al logo */
 .top-bar{
     background-color: #4ea0ff;
     background-image: url("../img/pattern.png");
     background-repeat: repeat-x;
     background-size: 30%;
 }
-
+/* Gestione del logo */
 #logo{
     width: 150px;
     height: 40px;
@@ -34,4 +34,13 @@ h1{
 
 .date{
     font-size: small;
+}
+
+.photo{
+    margin-top: 1%;
+    margin-left: 1%;
+}
+
+.ph_description{
+    font-size: x-small;
 }
