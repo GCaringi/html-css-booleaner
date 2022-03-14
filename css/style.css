@@ -2,6 +2,10 @@
 body{
     margin: 0px;
 }
+
+main{
+    margin-left: 1%;
+}
 /* Gestione della barra che fa da sfondo al logo */
 .top-bar{
     background-color: #4ea0ff;
@@ -43,4 +47,9 @@ h1{
 
 .ph_description{
     font-size: x-small;
+}
+
+.u-list{
+    padding-top: 1%;
+    padding-left: 1%;
 }
