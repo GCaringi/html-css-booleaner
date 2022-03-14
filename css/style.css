@@ -6,6 +6,10 @@ body{
 main{
     margin-left: 1%;
 }
+
+footer{
+    margin-left: 1%;
+}
 /* Gestione della barra che fa da sfondo al logo */
 .top-bar{
     background-color: #4ea0ff;
@@ -80,4 +84,12 @@ thead{
 .signed{
     background-color: #b1e5f2;
 }
+
+h3{
+    color: #848484;
+    font-size: medium;
+    padding-top: 1%;
+}
+
+
 
